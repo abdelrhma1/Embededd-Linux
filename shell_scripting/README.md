@@ -24,7 +24,7 @@ Example: Suppose you have a directory called "Downloads" with the following file
 
 
 output:
-,,, c++
+'''python
 Downloads/
 |-- txt/
 |   |-- file1.txt
