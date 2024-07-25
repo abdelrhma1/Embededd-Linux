@@ -14,7 +14,7 @@ The goal of this project is to create a Bash script that organizes files in a sp
     The script should handle edge cases, such as files with no extensions or hidden files (those starting with a dot).
 
 Example: Suppose you have a directory called "Downloads" with the following files:
-
+```markdown
 -file1.txt
 -file2.jpg
 -file3.pdf
