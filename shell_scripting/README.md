@@ -24,8 +24,8 @@ Example: Suppose you have a directory called "Downloads" with the following file
 
 
 output:
-'''python
-Downloads/
+```markdown
+'Downloads/
 |-- txt/
 |   |-- file1.txt
 |-- jpg/
@@ -34,4 +34,4 @@ Downloads/
 |   |-- file3.pdf
 |-- misc/
 |   |-- file5_without_extension
-|   |-- file6.unknown
+|   |-- file6.unknown'
