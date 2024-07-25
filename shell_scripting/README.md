@@ -15,16 +15,16 @@ The goal of this project is to create a Bash script that organizes files in a sp
 
 Example: Suppose you have a directory called "Downloads" with the following files:
 
-file1.txt
-file2.jpg
-file3.pdf
-file5_without_extension
-file6.unknown
+-file1.txt
+-file2.jpg
+-file3.pdf
+-file5_without_extension
+-file6.unknown
 
 
 
 output:
-,,, 
+,,, c++
 Downloads/
 |-- txt/
 |   |-- file1.txt
