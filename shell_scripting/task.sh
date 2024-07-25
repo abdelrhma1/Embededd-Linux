@@ -50,6 +50,8 @@ function main() {
     readarray -t resultArray4 < <(find "$path" -maxdepth 1 -type f ! -name "*.txt" ! -name "*.jpg" ! -name "*.pdf")
     create_dir "misc_folder"
     move_files resultArray4[@] "misc_folder"
+   # List of folders
+     tree "$path"
 }
 
 # Call the main function 
