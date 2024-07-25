@@ -1,1 +1,2 @@
 # Embededd-Linux
+https://www.google.com/imgres?q=linux&imgurl=https%3A%2F%2Fblog.vtutor.com%2Fwp-content%2Fuploads%2F2019%2F12%2FLinux.jpg&imgrefurl=https%3A%2F%2Fblog.vtutor.com%2Fprogramming%2Flinux-its-history-and-why-it-isnt-going-anywhere%2F&docid=mpMSYl4rGtHNCM&tbnid=YECGWDQIlRhGCM&vet=12ahUKEwirjOOv1cGHAxWqcKQEHfHmFCAQM3oECH8QAA..i&w=700&h=475&hcb=2&ved=2ahUKEwirjOOv1cGHAxWqcKQEHfHmFCAQM3oECH8QAA
